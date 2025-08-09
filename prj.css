@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    border-radius: 2px;
+    border-radius: 5px;
     font-family: Arial;
     border: border-box;
 }
@@ -1925,6 +1925,7 @@ ul a {
   padding: 5px;
   color: grey;
 }
+
 
 
 
