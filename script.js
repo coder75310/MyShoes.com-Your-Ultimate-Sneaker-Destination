@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const dropdown = document.querySelector('.lang-dropdown');
     header.addEventListener('click', function() {
         dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+        const track = document.getElementById('brandsTrack');
     });
 });
 
@@ -134,5 +135,6 @@ track.addEventListener('touchmove', (e) => {
 
 
 const slider = document.getElementById('custom-slider');
+
 
 const slider = document.getElementById('custom-slider');
